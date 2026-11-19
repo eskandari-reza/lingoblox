@@ -1,3 +1,5 @@
-# LingoBlox 1 (lingoblox_v1.47)
-
-Static site: index.html + data/ (skeleton.json + 15 language files). Upload the content to a GitHub repo, set Pages source to GitHub Actions. Open https://USERNAME.github.io/REPO/ . On iPhone: Safari > Share > Add to Home Screen.
+# LingoBlox 1
+Layered, modular client (`client/`) + optional microservice platform (`platform/`). See `docs/ARCHITECTURE.md`.
+    npm run check   # architecture rules      npm test   # domain + contract tests
+    npm run build   # site in out/site        npm run release  # 4 release artifacts
+    cd platform && cp deploy/.env.example deploy/.env && docker compose -f deploy/docker-compose.yml up
