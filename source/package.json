@@ -1,1 +1,0 @@
-{ "name": "lingoblox1", "private": true, "scripts": { "check": "python3 tools/check_layers.py && python3 tools/check_i18n.py", "test": "node --test tests/domain.test.mjs && (cd platform && npm test)", "build": "python3 build/build_site.py", "release": "python3 package.py" } }
