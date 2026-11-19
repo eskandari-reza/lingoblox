@@ -1,5 +1,0 @@
-const C='rm2-'+"lingoblox_v1.47";self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>clients.claim())));
-self.addEventListener('fetch',e=>{const r=e.request;if(r.method!=='GET')return;const u=new URL(r.url);if(u.origin!==location.origin)return;
-const html=r.mode==='navigate'||u.pathname.endsWith('/')||u.pathname.endsWith('.html')||u.pathname.endsWith('manifest.webmanifest')||u.pathname.endsWith('manifest.json');
-e.respondWith(caches.open(C).then(async c=>{const m=await c.match(r);const net=fetch(r).then(x=>{if(x.ok)c.put(r,x.clone());return x}).catch(()=>null);
-if(html){const x=await net;return x||m||Response.error()}return m||(await net)||Response.error()}))});
