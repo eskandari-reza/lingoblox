@@ -1,0 +1,73 @@
+/* stories & dialogues: items 8–23, part 2 (pt ru tr ar). NOT native-reviewed. */
+(()=>{
+const A=RMS.addTx;
+A('pt',[
+['Bom dia! Posso ajudar?','Sim, quero dois pãezinhos e um pão grande.','Mais alguma coisa?','Não, obrigado. Quanto é?','São três euros e cinquenta.','Aqui está. Tenha um bom dia!'],
+['Você tem uma família grande?','Sim, tenho dois irmãos e uma irmã.','Quantos anos tem a sua irmã?','Ela tem doze anos.','E o que os seus pais fazem?','Meu pai é professor e minha mãe é enfermeira.'],
+['Com licença, que horas são?','São quatro e meia.','Obrigado. A que horas a loja fecha?','Ela fecha às seis horas.','Então ainda tenho tempo.','Sim, mas apresse-se!'],
+['Boa tarde. Qual é o problema?','Desde ontem estou com dor de cabeça e dor de garganta.','Você está com febre?','Sim, um pouco. Trinta e oito graus.','Tome este remédio duas vezes por dia e beba muito chá.','Obrigado, doutor. Devo voltar na semana que vem?'],
+['Boa noite. O senhor tem reserva?','Sim, um quarto individual para duas noites em nome de Rahimi.','Perfeito. O seu quarto fica no terceiro andar.','O café da manhã está incluído?','Sim, é servido das sete às dez.','Ótimo, obrigado. Onde fica o elevador?'],
+['O que você vai fazer neste fim de semana?','Quero fazer uma caminhada na montanha se o tempo estiver bom.','Parece ótimo. Posso ir com você?','Claro! Podemos sair cedo no sábado de manhã.','Combinado. Eu levo sanduíches e água.','Perfeito. Então eu cuido do mapa.'],
+['Fale-me um pouco sobre você, por favor.','Estudei informática e trabalho como programador há quatro anos.','Por que você quer mudar de emprego?','Procuro novos desafios e a chance de aprender mais.','Quais são os seus pontos fortes?','Trabalho bem em equipe e sempre termino as minhas tarefas a tempo.'],
+['Olá, comprei este casaco na semana passada, mas ele é pequeno demais.','Você está com o recibo?','Sim, aqui está.','Sinto muito, mas não temos este casaco em um tamanho maior.','Então quero o meu dinheiro de volta.','Sem problema. Vou devolver agora mesmo para o seu cartão.'],
+['Eu acordo às sete horas.','Tomo o café da manhã com a minha família.','Depois vou de ônibus para o trabalho.','À noite faço o jantar e assisto a um filme.','Às onze horas vou dormir.'],
+['A minha melhor amiga se chama Lena.','Ela tem vinte anos e mora perto de mim.','Ela gosta de música e toca violão.','Aos domingos costumamos passear no parque.','Fico feliz por ter uma amiga tão boa.'],
+['No verão passado fomos de carro à praia.','O sol brilhava e a água estava quente.','As crianças construíram um grande castelo de areia na praia.','À tarde comemos peixe fresco em um pequeno restaurante.','À noite estávamos cansados, mas muito felizes.'],
+['Todo sábado vou à feira perto da minha casa.','Lá compro legumes, frutas e queijo frescos.','Os vendedores são simpáticos e muitas vezes me dão um mimo.','Depois encontro o meu vizinho para um café.','Ao meio-dia levo as sacolas pesadas para casa.'],
+['Hoje chove desde de manhã.','Não pude passear, por isso fiquei em casa.','Fiz chá quente e li um livro.','Meu gato dormiu ao meu lado no sofá.','Dias de chuva podem ser muito aconchegantes.'],
+['Há dois anos mudei-me para uma cidade nova por causa do trabalho.','No início sentia-me sozinho porque não conhecia ninguém.','Depois entrei num clube desportivo e fiz novos amigos.','Aos poucos a cidade tornou-se a minha casa.','Hoje não consigo imaginar viver noutro lugar.'],
+['Na segunda-feira perdi o meu telemóvel no comboio.','Eu estava muito nervoso porque todas as minhas fotos estavam nele.','À noite um desconhecido ligou-me do meu próprio número.','Ele tinha encontrado o telemóvel e levado à estação.','Fiquei tão grato que o convidei para jantar.'],
+['Daqui a cinco anos gostaria de ter o meu próprio negócio.','Primeiro preciso de poupar dinheiro e aprender mais sobre marketing.','Não vai ser fácil, mas estou pronto para trabalhar duro.','A minha família apoia-me, e isso torna-me forte.','Acredito que os sonhos se realizam se não desistirmos.']]);
+A('ru',[
+['Доброе утро! Чем могу помочь?','Да, я хотел бы две булочки и буханку хлеба.','Что-нибудь ещё?','Нет, спасибо. Сколько с меня?','Три евро пятьдесят.','Вот, пожалуйста. Хорошего дня!'],
+['У тебя большая семья?','Да, у меня два брата и одна сестра.','Сколько лет твоей сестре?','Ей двенадцать лет.','А кем работают твои родители?','Мой отец — учитель, а мама — медсестра.'],
+['Извините, который час?','Половина пятого.','Спасибо. Когда закрывается магазин?','Он закрывается в шесть часов.','Тогда у меня ещё есть время.','Да, но поторопись!'],
+['Добрый день. Что вас беспокоит?','Со вчерашнего дня у меня болят голова и горло.','У вас есть температура?','Да, небольшая. Тридцать восемь градусов.','Принимайте это лекарство два раза в день и пейте много чая.','Спасибо, доктор. Мне прийти на следующей неделе?'],
+['Добрый вечер. У вас есть бронь?','Да, одноместный номер на две ночи на фамилию Рахими.','Отлично. Ваш номер на третьем этаже.','Завтрак включён?','Да, его подают с семи до десяти.','Прекрасно, спасибо. Где лифт?'],
+['Что ты делаешь в эти выходные?','Если погода будет хорошей, я хочу пойти в горы.','Звучит здорово. Можно мне с тобой?','Конечно! Мы можем выехать рано утром в субботу.','Хорошо. Я возьму бутерброды и воду.','Отлично. Тогда я займусь картой.'],
+['Расскажите, пожалуйста, немного о себе.','Я изучал информатику и четыре года работаю разработчиком.','Почему вы хотите сменить работу?','Я ищу новые задачи и возможность больше учиться.','Каковы ваши сильные стороны?','Я хорошо работаю в команде и всегда выполняю задания вовремя.'],
+['Здравствуйте, на прошлой неделе я купил эту куртку, но она мала.','У вас есть чек?','Да, вот он.','К сожалению, такой куртки большего размера у нас нет.','Тогда я хотел бы вернуть деньги.','Без проблем. Я сразу верну их на вашу карту.'],
+['Я встаю в семь часов.','Я завтракаю с семьёй.','Потом еду на работу на автобусе.','Вечером я готовлю ужин и смотрю фильм.','В одиннадцать часов я ложусь спать.'],
+['Мою лучшую подругу зовут Лена.','Ей двадцать лет, и она живёт рядом со мной.','Она любит музыку и играет на гитаре.','По воскресеньям мы часто гуляем в парке.','Я рад, что у меня такая хорошая подруга.'],
+['Прошлым летом мы поехали на море.','Светило солнце, и вода была тёплой.','Дети построили на пляже большой замок из песка.','Днём мы ели свежую рыбу в маленьком ресторане.','Вечером мы устали, но были очень счастливы.'],
+['Каждую субботу я хожу на рынок рядом с моим домом.','Там я покупаю свежие овощи, фрукты и сыр.','Продавцы приветливы и часто дарят мне что-нибудь небольшое.','Потом я встречаюсь с соседом за чашкой кофе.','В полдень я несу тяжёлые сумки домой.'],
+['Сегодня с самого утра идёт дождь.','Я не смог погулять и остался дома.','Я заварил горячий чай и читал книгу.','Мой кот спал рядом со мной на диване.','Дождливые дни могут быть очень уютными.'],
+['Два года назад я переехал в новый город из-за работы.','Сначала я чувствовал себя одиноко, потому что никого не знал.','Потом я записался в спортивный клуб и нашёл новых друзей.','Постепенно город стал моим домом.','Сегодня я не могу представить, что живу где-то ещё.'],
+['В понедельник я потерял телефон в поезде.','Я очень волновался, потому что там были все мои фотографии.','Вечером мне позвонил незнакомец с моего же номера.','Он нашёл телефон и отнёс его на вокзал.','Я был так благодарен, что пригласил его на ужин.'],
+['Через пять лет я хотел бы иметь собственное небольшое дело.','Сначала мне нужно накопить денег и больше узнать о маркетинге.','Это будет непросто, но я готов упорно работать.','Моя семья поддерживает меня, и это делает меня сильным.','Я верю, что мечты сбываются, если не сдаваться.']]);
+A('tr',[
+['Günaydın! Size yardımcı olabilir miyim?','Evet, iki küçük ekmek ve bir somun ekmek istiyorum.','Başka bir şey?','Hayır, teşekkürler. Ne kadar tuttu?','Üç euro elli sent.','Buyurun. İyi günler!'],
+['Büyük bir ailen var mı?','Evet, iki erkek kardeşim ve bir kız kardeşim var.','Kız kardeşin kaç yaşında?','On iki yaşında.','Peki anne babanın mesleği ne?','Babam öğretmen, annem hemşire.'],
+['Affedersiniz, saat kaç?','Dört buçuk.','Teşekkürler. Dükkân ne zaman kapanıyor?','Saat altıda kapanıyor.','O zaman hâlâ vaktim var.','Evet, ama acele et!'],
+['İyi günler. Şikâyetiniz nedir?','Dünden beri başım ve boğazım ağrıyor.','Ateşiniz var mı?','Evet, biraz. Otuz sekiz derece.','Bu ilacı günde iki kez alın ve bol çay için.','Teşekkürler, doktor bey. Gelecek hafta tekrar geleyim mi?'],
+['İyi akşamlar. Rezervasyonunuz var mı?','Evet, Rahimi adına iki gecelik tek kişilik bir oda.','Mükemmel. Odanız üçüncü katta.','Kahvaltı dahil mi?','Evet, yedi ile on arasında servis ediliyor.','Harika, teşekkürler. Asansör nerede?'],
+['Bu hafta sonu ne yapıyorsun?','Hava güzel olursa dağda yürüyüşe çıkmak istiyorum.','Kulağa hoş geliyor. Seninle gelebilir miyim?','Tabii ki! Cumartesi sabah erkenden yola çıkabiliriz.','Güzel. Ben sandviç ve su getiririm.','Mükemmel. O zaman haritayı ben hazırlarım.'],
+['Lütfen bana kendinizden biraz bahsedin.','Bilgisayar bilimi okudum ve dört yıldır yazılımcı olarak çalışıyorum.','Neden işinizi değiştirmek istiyorsunuz?','Yeni zorluklar ve daha çok öğrenme fırsatı arıyorum.','Güçlü yönleriniz nelerdir?','Takımda iyi çalışırım ve işlerimi her zaman zamanında bitiririm.'],
+['Merhaba, bu ceketi geçen hafta aldım ama çok küçük.','Yanınızda fişi var mı?','Evet, buyurun.','Üzgünüm, ama bu ceketin daha büyük bedeni yok.','O zaman paramı geri almak istiyorum.','Sorun değil. Hemen kartınıza iade ediyorum.'],
+['Saat yedide kalkarım.','Ailemle kahvaltı ederim.','Sonra otobüsle işe giderim.','Akşam yemek yapar ve film izlerim.','Saat on birde yatarım.'],
+['En iyi arkadaşımın adı Lena.','Yirmi yaşında ve bana yakın oturuyor.','Müziği seviyor ve gitar çalıyor.','Pazar günleri sık sık parkta yürüyüş yaparız.','Böyle iyi bir arkadaşım olduğu için mutluyum.'],
+['Geçen yaz arabayla denize gittik.','Güneş parlıyordu ve su sıcaktı.','Çocuklar sahilde büyük bir kum kalesi yaptı.','Öğleden sonra küçük bir lokantada taze balık yedik.','Akşam yorgunduk ama çok mutluyduk.'],
+['Her cumartesi evimin yakınındaki pazara giderim.','Orada taze sebze, meyve ve peynir alırım.','Satıcılar güler yüzlüdür ve bana sık sık küçük bir hediye verirler.','Sonra komşumla bir kahve içmek için buluşurum.','Öğlen ağır poşetleri eve taşırım.'],
+['Bugün sabahtan beri yağmur yağıyor.','Yürüyüşe çıkamadım, bu yüzden evde kaldım.','Sıcak çay yaptım ve kitap okudum.','Kedim kanepede yanımda uyudu.','Yağmurlu günler çok samimi olabilir.'],
+['İki yıl önce işim için yeni bir şehre taşındım.','Başta kimseyi tanımadığım için yalnız hissettim.','Sonra bir spor kulübüne katıldım ve yeni arkadaşlar edindim.','Yavaş yavaş şehir evim oldu.','Bugün başka bir yerde yaşamayı hayal edemiyorum.'],
+['Pazartesi günü telefonumu trende kaybettim.','Çok gergindim çünkü tüm fotoğraflarım içindeydi.','Akşam yabancı biri beni kendi numaramdan aradı.','Telefonu bulmuş ve istasyona getirmişti.','O kadar minnettardım ki onu yemeğe davet ettim.'],
+['Beş yıl sonra kendi küçük işyerime sahip olmak istiyorum.','Önce para biriktirmeli ve pazarlama hakkında daha çok öğrenmeliyim.','Kolay olmayacak ama sıkı çalışmaya hazırım.','Ailem beni destekliyor, bu da beni güçlü kılıyor.','Pes etmezsen hayallerin gerçek olacağına inanıyorum.']]);
+A('ar',[
+['صباح الخير! هل يمكنني مساعدتك؟','نعم، أريد رغيفين صغيرين وخبزة كبيرة.','هل تريد شيئًا آخر؟','لا، شكرًا. كم الحساب؟','ثلاثة يورو وخمسون سنتًا.','تفضّل. أتمنى لك يومًا سعيدًا!'],
+['هل عائلتك كبيرة؟','نعم، لديّ أخوان وأخت واحدة.','كم عمر أختك؟','عمرها اثنتا عشرة سنة.','وماذا يعمل والداك؟','أبي معلّم وأمي ممرّضة.'],
+['عفوًا، كم الساعة الآن؟','الساعة الرابعة والنصف.','شكرًا. متى يُغلق المتجر؟','يُغلق عند الساعة السادسة.','إذن ما زال لديّ وقت.','نعم، لكن أسرع!'],
+['مساء الخير. ما المشكلة؟','عندي صداع وألم في الحلق منذ أمس.','هل لديك حرارة؟','نعم، قليلًا. ثمانٍ وثلاثون درجة.','تناول هذا الدواء مرتين في اليوم واشرب الكثير من الشاي.','شكرًا يا دكتور. هل أعود الأسبوع القادم؟'],
+['مساء الخير. هل لديك حجز؟','نعم، غرفة لشخص واحد لليلتين باسم رحيمي.','ممتاز. غرفتك في الطابق الثالث.','هل الإفطار مشمول؟','نعم، يُقدَّم من السابعة حتى العاشرة.','رائع، شكرًا. أين المصعد؟'],
+['ماذا ستفعل في عطلة نهاية الأسبوع؟','أريد التنزّه في الجبال إذا كان الطقس جميلًا.','يبدو رائعًا. هل يمكنني الذهاب معك؟','بالطبع! يمكننا الانطلاق باكرًا صباح السبت.','جيد. سأُحضر السندويتشات والماء.','ممتاز. إذن سأتولّى أمر الخريطة.'],
+['من فضلك، حدّثني قليلًا عن نفسك.','درستُ علوم الحاسوب وأعمل مطوّرًا منذ أربع سنوات.','لماذا تريد تغيير عملك؟','أبحث عن تحدّيات جديدة وفرصة لتعلّم المزيد.','ما نقاط قوّتك؟','أعمل جيدًا ضمن فريق وأنهي مهامي دائمًا في الوقت المحدّد.'],
+['مرحبًا، اشتريتُ هذه السترة الأسبوع الماضي لكنها صغيرة جدًا.','هل معك الإيصال؟','نعم، تفضّل.','آسف، لكن ليس لدينا هذه السترة بمقاس أكبر.','إذن أريد استرجاع مالي.','لا مشكلة. سأعيده إلى بطاقتك فورًا.'],
+['أستيقظ في الساعة السابعة.','أتناول الإفطار مع عائلتي.','ثم أذهب إلى العمل بالحافلة.','في المساء أطبخ العشاء وأشاهد فيلمًا.','في الساعة الحادية عشرة أخلد إلى النوم.'],
+['اسم صديقتي المقرّبة لينا.','عمرها عشرون سنة وتسكن قريبًا مني.','تحب الموسيقى وتعزف على الغيتار.','في أيام الأحد نتمشّى كثيرًا في الحديقة.','أنا سعيد بوجود صديقة جيدة كهذه.'],
+['في الصيف الماضي سافرنا بالسيارة إلى البحر.','كانت الشمس مشرقة والماء دافئًا.','بنى الأطفال قلعة رملية كبيرة على الشاطئ.','بعد الظهر أكلنا سمكًا طازجًا في مطعم صغير.','في المساء كنا متعبين لكن سعداء جدًا.'],
+['كل يوم سبت أذهب إلى السوق القريب من بيتي.','أشتري هناك خضارًا وفاكهة وجبنًا طازجًا.','البائعون ودودون وغالبًا يعطونني هدية صغيرة.','ثم ألتقي جاري لنشرب قهوة.','عند الظهر أحمل الأكياس الثقيلة إلى البيت.'],
+['تمطر اليوم منذ الصباح.','لم أستطع الخروج للتمشّي، فبقيت في البيت.','أعددت شايًا ساخنًا وقرأت كتابًا.','نامت قطتي بجانبي على الأريكة.','الأيام الماطرة قد تكون دافئة وجميلة جدًا.'],
+['قبل سنتين انتقلت إلى مدينة جديدة بسبب عملي.','في البداية شعرت بالوحدة لأنني لم أكن أعرف أحدًا.','ثم انضممت إلى نادٍ رياضي وكوّنت أصدقاء جددًا.','شيئًا فشيئًا صارت المدينة بيتي.','اليوم لا أستطيع أن أتخيّل أنني أعيش في مكان آخر.'],
+['يوم الاثنين أضعت هاتفي في القطار.','كنت متوترًا جدًا لأن كل صوري كانت عليه.','في المساء اتصل بي شخص غريب من رقمي نفسه.','كان قد وجد الهاتف وأحضره إلى المحطة.','كنت ممتنًا جدًا حتى دعوته إلى العشاء.'],
+['بعد خمس سنوات أريد أن يكون لدي مشروعي الصغير الخاص.','أولًا عليّ أن أدّخر المال وأتعلّم المزيد عن التسويق.','لن يكون الأمر سهلًا، لكنني مستعد للعمل بجدّ.','عائلتي تدعمني، وهذا يجعلني قويًا.','أؤمن بأن الأحلام تتحقق إن لم تستسلم.']]);
+
+})();
