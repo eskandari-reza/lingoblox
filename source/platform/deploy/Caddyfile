@@ -1,0 +1,12 @@
+# Caddy gives you HTTPS automatically. Replace the domains.
+api.YOUR-DOMAIN.com {
+	reverse_proxy 127.0.0.1:8787
+}
+# Static host for the web app + language packs (the Android app downloads packs from here)
+YOUR-DOMAIN.com {
+	root * /var/www/remedic
+	file_server
+	@packs path /packs/*
+	header @packs Access-Control-Allow-Origin "*"
+	header @packs Cache-Control "public, max-age=3600"
+}
