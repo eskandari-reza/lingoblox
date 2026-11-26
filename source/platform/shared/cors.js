@@ -1,2 +1,0 @@
-export const corsFrom = (list) => { const O = String(list || 'https://localhost,capacitor://localhost,http://localhost').split(',').map((s) => s.trim()).filter(Boolean);
-  return (req) => ({ 'access-control-allow-origin': O.includes('*') ? '*' : O.includes(req.headers.origin) ? req.headers.origin : O[0], 'access-control-allow-headers': 'content-type,authorization', 'access-control-allow-methods': 'GET,POST,PUT,DELETE,OPTIONS', vary: 'origin' }); };
